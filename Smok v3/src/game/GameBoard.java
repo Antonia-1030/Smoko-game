@@ -16,7 +16,7 @@ public class GameBoard extends JFrame implements ActionListener{
     private final int WIDTH = 600;
     private final int HEIGHT = 300;
     private final int CELL_SIZE = 10;
-    private final int BOARD_SIZE = 900;
+    private final int BOARD_SIZE = 1800;
     private final int RAND_POS = 30;
     private final int x[] = new int[BOARD_SIZE];
     private final int y[] = new int[BOARD_SIZE];
